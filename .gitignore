@@ -35,6 +35,7 @@
 *.out
 *.app
 *.bin
+*.prob
 
 ### Windows ###
 # Windows thumbnail cache files
